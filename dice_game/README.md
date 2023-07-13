@@ -1,4 +1,5 @@
 # Dice-Game
+This is a game in which user click on the Start button which will lead to rolling of two dice and the dice with the higher number, its corresponding player will win the present round.
 # Technologies used:
 
 <p align="left">
