@@ -4,4 +4,4 @@ This is a game in which user click on the Start button which will lead to rollin
 1. HTML 
 2. CSS
 4. Javascript
-5. bootstrap
+5. Bootstrap
